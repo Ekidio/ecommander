@@ -33,7 +33,7 @@ pip install PyQt6
 To run the application directly from the source code:
 
 ```bash
-python mucommander_lite.py
+python ecommander.py
 ```
 
 ---
