@@ -1,3 +1,8 @@
+
+<img width="1151" height="659" alt="Screenshot 2026-09-13 at 16 05 34" src="https://github.com/user-attachments/assets/98a6774b-93b7-44b7-a603-8af9124fd399" />
+
+
+
 # ECOMMANDER (MuCommander Lite)
 
 ECOMMANDER is a lightweight, dual-panel file manager built with Python 3 and PyQt6. Inspired by classic file managers like Norton Commander and Total Commander, it provides fast keyboard navigation, tabbed browsing, and local and FTP file operations.
